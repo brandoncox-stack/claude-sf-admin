@@ -1,5 +1,8 @@
 # Metadata Deploy & Retrieve
 
+## Cross-Org Deploys
+If the user wants to deploy from sandbox to production (or vice versa), read `data/org-registry.json` to resolve the target org. Look up the sandbox's `parentAlias` to find the correct production org alias. If no relationship is set, ask the user which org to deploy to, or suggest: "Run `/orgs link` to set up the relationship first."
+
 ## Retrieve Metadata by Type
 ```bash
 sf project retrieve start --metadata {{MetadataType}}:{{ComponentName}} --target-org {{org}}

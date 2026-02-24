@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "orgs": [
+    {
+      "alias": "trailhead-playground",
+      "username": "brandon.cox.bba5f441ff43@agentforce.com",
+      "orgId": "00DgL00000LR97yUAD",
+      "type": "production",
+      "parentAlias": null,
+      "addedAt": "2026-02-24"
+    },
+    {
+      "alias": "uat-sandbox",
+      "username": "brandon.cox@avinode.com",
+      "orgId": "00DWr000008Q2j7MAC",
+      "type": "sandbox",
+      "parentAlias": null,
+      "addedAt": "2026-02-24"
+    }
+  ]
+}
