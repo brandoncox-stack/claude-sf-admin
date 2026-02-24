@@ -8,14 +8,6 @@
       "type": "production",
       "parentAlias": null,
       "addedAt": "2026-02-24"
-    },
-    {
-      "alias": "uat-sandbox",
-      "username": "brandon.cox@avinode.com",
-      "orgId": "00DWr000008Q2j7MAC",
-      "type": "sandbox",
-      "parentAlias": null,
-      "addedAt": "2026-02-24"
     }
   ]
 }
